@@ -55,7 +55,7 @@ def draw_Building():
 	turtle.right(90)
 	turtle.forward(70)
 	turtle.right(90)
-        turtle.forward(50)
+	turtle.forward(50)
         turtle.right(180)
         turtle.forward(30)
         turtle.right(45)
