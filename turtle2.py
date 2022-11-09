@@ -37,7 +37,9 @@ turtle.color("green")
 for l in range(ndim):
 	turtle.forward(10)
 	turtle.left(90)
-	turtle.forward(100)import turtle
+	turtle.forward(100)
+
+import turtle
 
 def draw_Building():
 	#Drawing the face of the building	
