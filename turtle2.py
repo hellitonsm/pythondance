@@ -1,6 +1,7 @@
 #draw a Skycrapper using turtle package
 ndim=4
 import turtle
+#drawing the border of the Skycrapper
 for i in range(1,ndim+1):
 	for g in range(ndim-i):
 		turtle.forward(10)
@@ -32,7 +33,7 @@ for i in range(1,ndim+1):
 	turtle.right(90)
 	turtle.forward(10)
 	turtle.right(90)
-	
+#drawing the door	
 turtle.color("green")
 for l in range(ndim):
 	turtle.forward(10)
