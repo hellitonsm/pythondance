@@ -38,5 +38,4 @@ for l in range(ndim):
 	turtle.forward(10)
 	turtle.left(90)
 	turtle.forward(100)
-	turtle.right(90)
-1
+	turtle.right(90)=======2
